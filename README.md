@@ -21,15 +21,3 @@ A simple desktop tool built with Python to automatically organize messy folders.
 2. Run the app
 3. Select a folder
 4. Click organize 🎉
-
-## 📦 Download
-
-[Add your .exe file here]
-
-## 📸 Demo
-
-(Add screenshot here)
-
-## 💡 Author
-
-Built by me 🚀
